@@ -1,7 +1,3 @@
-# canvas-ui-clone
-A front-end UI clone of Canvas LMS built with React and Tailwind CSS.
-
-
 # Canvas UI Clone 🎓
 
 A responsive front-end UI clone of the Canvas LMS (Learning Management System), built using **React** and **Tailwind CSS** as part of a front-end internship project.
