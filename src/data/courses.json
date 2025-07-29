@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "title": "React for Beginners",
+    "instructor": "John Doe",
+    "progress": 75,
+    "subject": "Web Development",
+    "duration": "6 Weeks",
+    "startDate": "2025-08-10",
+    "assignments": [
+      { "name": "Assignment 1", "due": "May 10", "status": "Closed" },
+      { "name": "Assignment 2", "due": "May 15", "status": "Closed" },
+      { "name": "Assignment 3", "due": "May 20", "status": "Open" }
+    ],
+    "grades": [
+      { "assignment": "Assignment 1", "score": "85%" },
+      { "assignment": "Assignment 2", "score": "90%" },
+      { "assignment": "Assignment 3", "score": "-" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Advanced JavaScript",
+    "instructor": "Jane Smith",
+    "progress": 90,
+    "subject": "JavaScript Programming",
+    "duration": "8 Weeks",
+    "startDate": "2025-08-12",
+    "assignments": [
+      { "name": "Scope & Closure", "due": "Jun 5", "status": "Closed" },
+      { "name": "Async JS", "due": "Jun 10", "status": "Open" }
+    ],
+    "grades": [
+      { "assignment": "Scope & Closure", "score": "78%" },
+      { "assignment": "Async JS", "score": "-" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Principles",
+    "instructor": "Emily Davis",
+    "progress": 40,
+    "subject": "Design",
+    "duration": "5 Weeks",
+    "startDate": "2025-08-14",
+    "assignments": [
+      { "name": "Color Theory", "due": "Jun 1", "status": "Closed" },
+      { "name": "Wireframing", "due": "Jun 8", "status": "Closed" },
+      { "name": "Prototyping", "due": "Jun 15", "status": "Open" }
+    ],
+    "grades": [
+      { "assignment": "Color Theory", "score": "92%" },
+      { "assignment": "Wireframing", "score": "95%" },
+      { "assignment": "Prototyping", "score": "-" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Node.js & Express",
+    "instructor": "Michael Scott",
+    "progress": 60,
+    "subject": "Backend Development",
+    "duration": "7 Weeks",
+    "startDate": "2025-08-18",
+    "assignments": [
+      { "name": "Express Basics", "due": "Jul 1", "status": "Closed" },
+      { "name": "REST API", "due": "Jul 5", "status": "Open" }
+    ],
+    "grades": [
+      { "assignment": "Express Basics", "score": "80%" },
+      { "assignment": "REST API", "score": "-" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "MongoDB Basics",
+    "instructor": "Angela Yu",
+    "progress": 30,
+    "subject": "Databases",
+    "duration": "4 Weeks",
+    "startDate": "2025-08-15",
+    "assignments": [
+      { "name": "Data Modeling", "due": "Jul 2", "status": "Closed" },
+      { "name": "CRUD Operations", "due": "Jul 9", "status": "Open" }
+    ],
+    "grades": [
+      { "assignment": "Data Modeling", "score": "70%" },
+      { "assignment": "CRUD Operations", "score": "-" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Fullstack Development",
+    "instructor": "Robert Langdon",
+    "progress": 65,
+    "subject": "Fullstack Engineering",
+    "duration": "10 Weeks",
+    "startDate": "2025-08-20",
+    "assignments": [
+      { "name": "Frontend Setup", "due": "Jul 3", "status": "Closed" },
+      { "name": "Backend Integration", "due": "Jul 10", "status": "Open" }
+    ],
+    "grades": [
+      { "assignment": "Frontend Setup", "score": "88%" },
+      { "assignment": "Backend Integration", "score": "-" }
+    ]
+  }
+]

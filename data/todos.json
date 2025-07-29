@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "task": "Complete React course",
+      "dueDate": "2025-07-28"
+    },
+    {
+      "id": 2,
+      "task": "Revise JavaScript concepts",
+      "dueDate": "2025-07-30"
+    },
+    {
+      "id": 3,
+      "task": "Design course card layout",
+      "dueDate": "2025-07-31"
+    },
+    {
+      "id": 4,
+      "task": "Update dashboard with new data",
+      "dueDate": "2025-08-01"
+    }
+  ]
+  
